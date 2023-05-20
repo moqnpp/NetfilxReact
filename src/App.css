@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --white:rgba(255, 255, 255, 1);
+  --red:rgba(229, 9, 20, 1);
+  --black: black;
+  --borderbottom: #222;
+}
