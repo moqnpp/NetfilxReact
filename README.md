@@ -1,3 +1,3 @@
 ## NetfilxReact
 
-![Logo](https://github.com/moqnpp/NetfilxReact/blob/19d6360cccda0cdf0e075dd1c9a0fabf205dfc77/Homepage_NetfilxReact.png)
+![Logo](https://github.com/moqnpp/NetfilxReact/blob/75c014cfb66f3d383d34855492a8c5f3a8989274/Homepage_NetfilxReact.png)
